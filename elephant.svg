@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="babyelephant.svg"
+    viewBox="0 0 744.09 1052.4"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <defs
+      id="defs4"
+    >
+    <linearGradient
+        id="linearGradient3785"
+      >
+      <stop
+          id="stop3787"
+          style="stop-color:#5c89b7"
+          offset="0"
+      />
+      <stop
+          id="stop3789"
+          style="stop-color:#6292c3;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient3970"
+        y2="605.95"
+        xlink:href="#linearGradient3785"
+        gradientUnits="userSpaceOnUse"
+        x2="-17.987"
+        y1="553.43"
+        x1="-131.43"
+        inkscape:collect="always"
+    />
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-4"
+      pagecolor="#ffffff"
+      inkscape:window-height="804"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.7"
+      inkscape:window-x="-4"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="250.39232"
+      inkscape:cy="615.89525"
+      inkscape:window-width="1152"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+    >
+    <g
+        id="g3948"
+        transform="matrix(2.6378 0 0 2.5392 -379.76 -914.43)"
+      >
+      <path
+          id="path3636"
+          sodipodi:nodetypes="ccc"
+          style="fill:#6699cc"
+          d="m331.91 414.14c74.798-128.97 139.4 130.42 22.5 87.9l-22.5-87.9z"
+      />
+      <path
+          id="path3640"
+          style="fill:#6699cc"
+          d="m207.88 378.79c-51.71-3.26-76.31 157.85 17.99 124.29l23.12-87.721c-14.432-25.291-28.567-35.78-41.117-36.571z"
+      />
+      <path
+          id="path3659"
+          sodipodi:nodetypes="ccc"
+          style="fill:#336699"
+          d="m337.62 427.57c51.361-90.399 95.72 91.419 15.45 61.612l-15.45-61.612z"
+      />
+      <path
+          id="path3661"
+          sodipodi:nodetypes="ccc"
+          style="fill:#336699"
+          d="m241.39 428.99c-51.361-90.399-95.72 91.419-15.45 61.612l15.45-61.612z"
+      />
+      <path
+          id="path3663"
+          sodipodi:rx="95"
+          sodipodi:ry="118.57143"
+          style="color:#000000;fill:#5c89b7"
+          sodipodi:type="arc"
+          d="m258.68 555.42c39.736-42.763 99.722-37.225 133.98 12.37 34.262 49.595 29.825 124.47-9.9107 167.23-39.736 42.763-99.722 37.225-133.98-12.37-32.116-46.489-30.495-115.89 3.7369-159.96"
+          sodipodi:open="true"
+          transform="matrix(1.0075 0 0 .92771 -31.697 25.213)"
+          sodipodi:cy="645.2193"
+          sodipodi:cx="320.71429"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3737"
+          sodipodi:nodetypes="cccscs"
+          style="stroke:#336699;stroke-width:.75;fill:#6292c3"
+          d="m356.75 543.35c46.37 18.075 56.497 52.547 45.638 89.969-17.826 35.701-43.264 38.602-50.097 17.481-8.2465-30.129 7.3114-25.637 13.453-39.772 7.3492-16.912-22.182-49.178-22.182-49.178s6.1574-21.241 13.188-18.5z"
+      />
+      <path
+          id="path3665"
+          sodipodi:rx="95"
+          sodipodi:ry="118.57143"
+          style="color:#000000;fill:#336699"
+          sodipodi:type="arc"
+          d="m258.68 555.42c39.736-42.763 99.722-37.225 133.98 12.37 34.262 49.595 29.825 124.47-9.9107 167.23-39.736 42.763-99.722 37.225-133.98-12.37-32.116-46.489-30.495-115.89 3.7369-159.96"
+          sodipodi:open="true"
+          transform="matrix(.63363 0 0 .77699 88.93 104.84)"
+          sodipodi:cy="645.2193"
+          sodipodi:cx="320.71429"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3791"
+          sodipodi:rx="45.714287"
+          sodipodi:ry="43.92857"
+          style="color:#000000;fill:url(#linearGradient3970)"
+          sodipodi:type="arc"
+          d="m-115.57 520.16c19.121-15.843 47.987-13.791 64.474 4.5828s14.352 46.112-4.7691 61.955-47.987 13.791-64.474-4.5828c-15.454-17.223-14.674-42.933 1.7982-59.262"
+          sodipodi:open="true"
+          transform="matrix(.072751 .23904 .19848 -.087616 248.71 622.77)"
+          sodipodi:cy="553.43359"
+          sodipodi:cx="-85.714287"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path2832"
+          style="stroke:#336699;stroke-width:.75;fill:#6699cc"
+          d="m291.19 395.75c-16.994-0.0465-34.088 6.9818-47.969 21.344l-4.75 5.375c-26.39 32.667-27.634 84.106-2.875 118.56 7.413 10.317 16.371 18.053 26.125 23.156 30.158 49.555 75.183 46.399 97.406 29.281 7.5679-5.8292 13.217-20.728 13.719-28.062 3.0016-43.915-9.7736-33.82-14.781-22.062-6.368 25.956-22.951 32.817-26.125 13.219 2.3877-1.9328 4.7023-4.0309 6.9375-6.3438 30.632-31.695 34.038-87.21 7.625-123.97-14.444-20.102-34.803-30.444-55.312-30.5z"
+      />
+      <path
+          id="path2820"
+          sodipodi:rx="5.0507627"
+          sodipodi:ry="10.101525"
+          style="opacity:.86058;color:#000000;fill:#000000"
+          sodipodi:type="arc"
+          d="m262.37 461.85c2.1126-3.6431 5.3018-3.1713 7.1234 1.0538 1.8216 4.2252 1.5857 10.604-0.52691 14.247-2.1126 3.6431-5.3018 3.1713-7.1234-1.0538-1.7075-3.9605-1.6213-9.8727 0.19867-13.628"
+          sodipodi:open="true"
+          transform="translate(-.76505 -5.765)"
+          sodipodi:cy="469.50415"
+          sodipodi:cx="265.6701"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path2826"
+          sodipodi:rx="5.0507627"
+          sodipodi:ry="10.101525"
+          style="opacity:.86058;color:#000000;fill:#000000"
+          sodipodi:type="arc"
+          d="m262.37 461.85c2.1126-3.6431 5.3018-3.1713 7.1234 1.0538 1.8216 4.2252 1.5857 10.604-0.52691 14.247-2.1126 3.6431-5.3018 3.1713-7.1234-1.0538-1.7075-3.9605-1.6213-9.8727 0.19867-13.628"
+          sodipodi:open="true"
+          transform="translate(51.518 -5.765)"
+          sodipodi:cy="469.50415"
+          sodipodi:cx="265.6701"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3703"
+          sodipodi:rx="43.57143"
+          sodipodi:ry="42.142857"
+          style="color:#000000;fill:#6191c2"
+          sodipodi:type="arc"
+          d="m337.98 694.02c18.225-15.199 45.737-13.231 61.451 4.3965 15.714 17.627 13.679 44.238-4.5455 59.437-18.225 15.199-45.737 13.231-61.451-4.3965-14.73-16.523-13.986-41.188 1.7139-56.853"
+          sodipodi:open="true"
+          transform="matrix(1.1019 -.62252 .35951 1.0856 -317.61 151.66)"
+          sodipodi:cy="725.93359"
+          sodipodi:cx="366.42856"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3705"
+          sodipodi:rx="43.57143"
+          sodipodi:ry="42.142857"
+          style="color:#000000;fill:#336699"
+          sodipodi:type="arc"
+          d="m337.98 694.02c18.225-15.199 45.737-13.231 61.451 4.3965 15.714 17.627 13.679 44.238-4.5455 59.437-18.225 15.199-45.737 13.231-61.451-4.3965-14.73-16.523-13.986-41.188 1.7139-56.853"
+          sodipodi:open="true"
+          transform="matrix(.99248 -.52223 .32381 .91073 -253.74 247.59)"
+          sodipodi:cy="725.93359"
+          sodipodi:cx="366.42856"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3729"
+          sodipodi:rx="43.57143"
+          sodipodi:ry="42.142857"
+          style="color:#000000;fill:#6191c2"
+          sodipodi:type="arc"
+          d="m337.98 694.02c18.225-15.199 45.737-13.231 61.451 4.3965 15.714 17.627 13.679 44.238-4.5455 59.437-18.225 15.199-45.737 13.231-61.451-4.3965-14.73-16.523-13.986-41.188 1.7139-56.853"
+          sodipodi:open="true"
+          transform="matrix(.022844 -1.2654 1.1179 .24121 -594.88 995.93)"
+          sodipodi:cy="725.93359"
+          sodipodi:cx="366.42856"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3705-6"
+          sodipodi:rx="43.57143"
+          sodipodi:ry="42.142857"
+          style="color:#000000;fill:#336699"
+          sodipodi:type="arc"
+          d="m337.98 694.02c18.225-15.199 45.737-13.231 61.451 4.3965 15.714 17.627 13.679 44.238-4.5455 59.437-18.225 15.199-45.737 13.231-61.451-4.3965-14.73-16.523-13.986-41.188 1.7139-56.853"
+          sodipodi:open="true"
+          transform="matrix(-.82114 -.76385 -.55095 .79419 927.99 417.16)"
+          sodipodi:cy="725.93359"
+          sodipodi:cx="366.42856"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3733"
+          sodipodi:nodetypes="cccscs"
+          style="stroke:#336699;stroke-width:.75;fill:#6292c3"
+          d="m223.47 546.38c-46.37 18.075-56.497 52.547-45.638 89.969 17.826 35.701 43.264 38.602 50.097 17.481 8.2465-30.129-7.3114-25.637-13.453-39.772-7.3492-16.912 22.182-49.178 22.182-49.178s-6.1574-21.241-13.188-18.5z"
+      />
+      <path
+          id="path3775"
+          sodipodi:rx="45.714287"
+          sodipodi:ry="43.92857"
+          style="color:#000000;fill:url(#linearGradient3970)"
+          sodipodi:type="arc"
+          d="m-115.57 520.16c19.121-15.843 47.987-13.791 64.474 4.5828s14.352 46.112-4.7691 61.955-47.987 13.791-64.474-4.5828c-15.454-17.223-14.674-42.933 1.7982-59.262"
+          sodipodi:open="true"
+          transform="matrix(-.089283 .25809 -.24359 -.094598 355.53 631.69)"
+          sodipodi:cy="553.43359"
+          sodipodi:cx="-85.714287"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3795"
+          sodipodi:rx="45.714287"
+          sodipodi:ry="43.92857"
+          style="color:#000000;fill:url(#linearGradient3970)"
+          sodipodi:type="arc"
+          d="m-115.57 520.16c19.121-15.843 47.987-13.791 64.474 4.5828s14.352 46.112-4.7691 61.955-47.987 13.791-64.474-4.5828c-15.454-17.223-14.674-42.933 1.7982-59.262"
+          sodipodi:open="true"
+          transform="matrix(-.072553 .20860 -.19794 -.076459 332.59 618.8)"
+          sodipodi:cy="553.43359"
+          sodipodi:cx="-85.714287"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3940"
+          sodipodi:rx="13.637059"
+          sodipodi:ry="13.637059"
+          style="color:#000000;fill:#99abe3"
+          sodipodi:type="arc"
+          d="m242.12 511.2c5.704-4.9182 14.315-4.2813 19.233 1.4227 4.9182 5.704 4.2813 14.315-1.4227 19.233-5.704 4.9182-14.315 4.2813-19.233-1.4227-4.6102-5.3467-4.3775-13.328 0.53641-18.397"
+          sodipodi:open="true"
+          transform="translate(-2.0203 -2.0443)"
+          sodipodi:cy="521.52704"
+          sodipodi:cx="251.0229"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+      <path
+          id="path3942"
+          sodipodi:rx="13.637059"
+          sodipodi:ry="13.637059"
+          style="color:#000000;fill:#99abe3"
+          sodipodi:type="arc"
+          d="m242.12 511.2c5.704-4.9182 14.315-4.2813 19.233 1.4227 4.9182 5.704 4.2813 14.315-1.4227 19.233-5.704 4.9182-14.315 4.2813-19.233-1.4227-4.6102-5.3467-4.3775-13.328 0.53641-18.397"
+          sodipodi:open="true"
+          transform="translate(83.799 -2.0443)"
+          sodipodi:cy="521.52704"
+          sodipodi:cx="251.0229"
+          sodipodi:end="10.19464"
+          sodipodi:start="4.0008258"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Baby Elephant</dc:title
+        >
+        <dc:date
+          >2011-02-18T16:40:11</dc:date
+        >
+        <dc:description
+          >Baby Elephant, blue</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/120601/baby-elephant-by-cgillis73-120601</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >cgillis73</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >animal</rdf:li
+            >
+            <rdf:li
+              >baby blue</rdf:li
+            >
+            <rdf:li
+              >baby elephant</rdf:li
+            >
+            <rdf:li
+              >blue</rdf:li
+            >
+            <rdf:li
+              >elephant</rdf:li
+            >
+            <rdf:li
+              >vector art</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
